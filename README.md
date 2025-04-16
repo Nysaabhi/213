@@ -17640,7 +17640,7 @@ function addPlacePageStyles() {
   
   .place-actions {
     max-width: 800px;
-    left: 40%;
+    left: 50%;
   }
 }
   `;
@@ -20017,7 +20017,7 @@ function addProviderPageStyles() {
   
   .provider-actions {
     max-width: 800px;
-    left: 40%;
+    left: 50%;
   }
 }
   `;
